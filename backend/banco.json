@@ -1,0 +1,12 @@
+{
+  "hotel":[
+    {
+      "id": 1,
+      "Profeitura":"Araras",
+      "Cidade": "Araras",
+      "Hotel": "Bonito",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.nh-hotels.net%2Fnh_palermo-162-hotel_facilities.jpg&imgrefurl=https%3A%2F%2Fwww.nh-hoteles.pt%2Fhotel%2Fnh-palermo&tbnid=JTfdoDY6x70IEM&vet=12ahUKEwjh2-L0trHvAhXfCrkGHQ7QAR8QMygBegUIARDRAQ..i&docid=_pSq_UobW5ZE5M&w=5000&h=3337&q=hotel&ved=2ahUKEwjh2-L0trHvAhXfCrkGHQ7QAR8QMygBegUIARDRAQ"
+
+    }
+  ]
+}
